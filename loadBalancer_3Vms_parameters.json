@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_myVM1_name": {
+            "value": null
+        },
+        "virtualMachines_myVM2_name": {
+            "value": null
+        },
+        "virtualMachines_myVM3_name": {
+            "value": null
+        },
+        "virtualNetworks_myVnet_name": {
+            "value": null
+        },
+        "networkInterfaces_myvm1896_name": {
+            "value": null
+        },
+        "networkInterfaces_myvm2446_name": {
+            "value": null
+        },
+        "networkInterfaces_myvm3486_name": {
+            "value": null
+        },
+        "publicIPAddresses_myVM1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_myVM2_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_myVM3_ip_name": {
+            "value": null
+        },
+        "loadBalancers_myLoadBalancer_name": {
+            "value": null
+        },
+        "publicIPAddresses_myPublicIP2_name": {
+            "value": null
+        },
+        "storageAccounts_myresourcegroupslbdia263_name": {
+            "value": null
+        },
+        "networkSecurityGroups_myNetworkSecurityGroup_name": {
+            "value": null
+        }
+    }
+}
